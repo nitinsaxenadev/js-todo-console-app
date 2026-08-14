@@ -29,9 +29,10 @@ The **JavaScript Console To-Do Application** provides an interactive command-lin
 
 ## 📁 Repository Structure
 
-* `index.html` — Application entry point and on-screen instructions.
-* `app.js` — Core JavaScript logic and interactive loop.
 * `README.md` — Project documentation.
+* `app.js` — Core JavaScript logic and interactive loop.
+* `index.html` — Application entry point and on-screen instructions.
+
 
 ---
 
